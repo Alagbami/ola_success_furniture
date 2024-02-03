@@ -1,0 +1,70 @@
+/* Add this styling to your CSS file */
+
+.all-thank {
+    text-align: center;
+    margin-top: 20px; /* Adjust margin as needed */
+  }
+  
+  .thanks-msg {
+    color: #4CAF50; /* Green color, change as needed */
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .number-msg {
+    font-size: 32px;
+  }
+  
+  .number-msg span {
+    color: #2196F3; /* Blue color, change as needed */
+    font-weight: bold;
+  }
+  
+
+/* ContactForm.css */
+
+.contact-form {
+    max-width: 400px;
+    margin: 24px auto;
+    padding: 20px;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: darkgray;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  .contact-form textarea {
+    height: 10rem;
+  }
+  
+  .contact-form button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .contact-form button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Add any additional styles as needed */
+  
